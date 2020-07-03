@@ -24,11 +24,11 @@ Originalidade e Criatividade:
 
 Funcionalidade: 
 
-Aplicação: dos conceitos: 
+Aplicação dos conceitos: 
 
 Entrega na data: 
 
-4.            O projeto
+4.            Demonstração do projeto
 
 ![01](https://user-images.githubusercontent.com/37448340/86462907-d89d6780-bd02-11ea-8e12-30b121282cb7.png)
 ![02](https://user-images.githubusercontent.com/37448340/86462993-05ea1580-bd03-11ea-95aa-b96eb0576cf4.png)
